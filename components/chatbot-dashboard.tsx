@@ -290,7 +290,7 @@ export function ChatbotDashboard() {
         <section className="max-w-6xl mx-auto mb-12">
           <h2 className="text-2xl font-bold mb-6 text-gray-800 dark:text-white">Resumen</h2>
           <p className="text-gray-700 dark:text-gray-300 mb-6">
-            Desde su lanzamiento el 17 de octubre, el chatbot ha interactuado con <span className="font-bold">60 usuarios</span>, con un promedio de <span className="font-bold">4.3 mensajes por usuario</span>. El tema más consultado es <span className="font-bold">"Información sobre dengue"</span>, representando el <span className="font-bold">55%</span> de las consultas totales.
+            Desde su lanzamiento el 17 de octubre, el chatbot ha interactuado con <span className="font-bold">60 usuarios</span>, con un promedio de <span className="font-bold">4.3 mensajes por usuario</span>. El tema más consultado es <span className="font-bold">&quot;Información sobre dengue&quot;</span>, representando el <span className="font-bold">55%</span> de las consultas totales.
           </p>
         </section>
 
